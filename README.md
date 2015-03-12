@@ -4,11 +4,12 @@ Welcome to my ebook!
 
 ## Topic List
 
-[ ] Beginning FactoryGirl
-[ ] Advanced FactoryGirl
-[ ] Shared Contexts
-[ ] Shared Examples
-[ ] Custom Matchers
-[ ] Integration Testing Basics
-[ ] Cucumber
-[ ] Test Doubles
+- [ ] Beginning FactoryGirl
+- [ ] Advanced FactoryGirl
+- [ ] Shared Contexts
+- [ ] Shared Examples
+- [ ] Custom Matchers
+- [ ] Integration Testing Basics
+- [ ] Cucumber
+- [ ] Test Doubles
+- [ ] Setting Expectations
